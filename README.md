@@ -22,10 +22,6 @@ mauriciolimaosint@protonmail.com
 
 # Experiência profissional
 
-* Millennials Consultoria e Tecnologia Ltda
-* CEO
-* 2016/2023
-* Gestor
 
 # Certificados
 
