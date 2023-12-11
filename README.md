@@ -24,7 +24,7 @@ No children
   - Cyber Defense
   - Graduation: 2024
 
-## Professional Experience:**
+## Professional Experience:
 
 1. **Millennials Consult & Tecnology**
    - CEO/Founder
