@@ -19,18 +19,18 @@ ECC7 C5F2 B933 A9B2 A159 8503 557B 559B 5EE1 21C8
 Married
 No children
 
-**Education:**
+## Education:**
 - **FIAP - Faculdade de Informática e Administração Paulista**
   - Cyber Defense
   - Graduation: 2024
 
 **Professional Experience:**
 
-1. **Millennials Consultoria & Tecnologia**
+1. **Millennials Consult & Tecnology**
    - CEO/Founder
    - 2016-2023
 
-2. **Hulk Serviços Gerais**
+2. **Hulk General Services**
    - CEO/Founder
    - 2013-2014
 
