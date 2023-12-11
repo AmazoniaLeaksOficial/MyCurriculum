@@ -19,12 +19,12 @@ ECC7 C5F2 B933 A9B2 A159 8503 557B 559B 5EE1 21C8
 Married
 No children
 
-## Education:**
+## Education:
 - **FIAP - Faculdade de Informática e Administração Paulista**
   - Cyber Defense
   - Graduation: 2024
 
-**Professional Experience:**
+## Professional Experience:**
 
 1. **Millennials Consult & Tecnology**
    - CEO/Founder
@@ -38,19 +38,19 @@ No children
    - Inventory Supervisor
    - 2010-2013
 
-**Certificates:**
+## Certificates:
 - Investigative Journalism: From Hypothesis to Narrative Construction – (Abraji – Brazilian Association of Investigative Journalism)
 - 360/Digital Sherlocks - (Digital Forensic Research Lab - Atlantic Council)
 - Scrum Foundation Professional Certification – SFPC™
 - SFPC Certificates – Scrum Foundation Professional Certificate
 
-**Other Courses:**
+## Other Courses:
 - Wireshark – (ACADI-TI)
 - CSI Linux Certified Investigator - (CSI Linux)
 - Maltego Foundations – (Maltego)
 - Cyber Defense (YouTube, Udemy, etc...)
 
-**Technical Skills:**
+## Technical Skills:
 - Programming Languages: Python (essential)
 - Databases: MySQL, PostgreSQL, MongoDB (basic)
 - Operating Systems: Linux (Advanced), Windows
