@@ -22,7 +22,6 @@ No children
 ## Education:
 - **FIAP - Faculdade de Informática e Administração Paulista**
   - Cyber Defense
-  - Graduation: 2024
 
 ## Professional Experience:
 
