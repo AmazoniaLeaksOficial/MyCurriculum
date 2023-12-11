@@ -56,7 +56,7 @@ No children
 - Operating Systems: Linux (Advanced), Windows
 - Others: Git, GitHub, Virtualization
 
-**OSINT Skills:**
+## OSINT Skills:
 - Defensive Writing
 - Investigative Mindset
 - Vicarious Trauma
