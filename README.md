@@ -37,7 +37,7 @@ No children
    - Inventory Supervisor
    - 2010-2013
 
-## Certificates:
+## Training:
 - Investigative Journalism: From Hypothesis to Narrative Construction – (Abraji – Brazilian Association of Investigative Journalism)
 - 360/Digital Sherlocks - (Digital Forensic Research Lab - Atlantic Council)
 - Scrum Foundation Professional Certification – SFPC™
