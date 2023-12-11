@@ -1,60 +1,96 @@
-# Nome
+# Curriculum
 
+**Name:**
 Mauricio Lima (Minotaur)
 
-# E-mail
-
+**Email:**
 mauriciolimaosint@protonmail.com
 
-# LinkedIn
+**PGP:**
+ECC7 C5F2 B933 A9B2 A159 8503 557B 559B 5EE1 21C8
 
-[[Meu LinkedIn]](https://www.linkedin.com/in/amazonia-leaks/)
+**LinkedIn:**
+[Amazonia Leaks](https://www.linkedin.com/in/amazonia-leaks/)
 
-# GitHub
+**GitHub:**
+[AmazoniaLeaksOficial](https://github.com/AmazoniaLeaksOficial)
 
-[[Meu GitHub]](https://github.com/AmazoniaLeaksOficial)
+**Important Information:**
+Married
+No children
 
-# Formação
+**Education:**
+- **FIAP - Faculdade de Informática e Administração Paulista**
+  - Cyber Defense
+  - Graduation: 2024
 
-* FIAP
-* Defesa Cibernética
-* 2023
+**Professional Experience:**
 
-# Experiência profissional
+1. **Millennials Consultoria & Tecnologia**
+   - CEO/Founder
+   - 2016-2023
 
+2. **Hulk Serviços Gerais**
+   - CEO/Founder
+   - 2013-2014
 
-# Certificados
+3. **Grupo Roncador**
+   - Inventory Supervisor
+   - 2010-2013
 
-* Jornalismo investigativo: da hipótese à construção da narrativa
-* Digital Forensic Research Lab (DFRLab)
-* Scrum Foundation Professional Certification - SFPC™
-* Certificados SFPC – Scrum Foundation Professional Certificate
+**Certificates:**
+- Investigative Journalism: From Hypothesis to Narrative Construction – (Abraji – Brazilian Association of Investigative Journalism)
+- 360/Digital Sherlocks - (Digital Forensic Research Lab - Atlantic Council)
+- Scrum Foundation Professional Certification – SFPC™
+- SFPC Certificates – Scrum Foundation Professional Certificate
 
-# Cursos Livre: 
+**Other Courses:**
+- Wireshark – (ACADI-TI)
+- CSI Linux Certified Investigator - (CSI Linux)
+- Maltego Foundations – (Maltego)
+- Cyber Defense (YouTube, Udemy, etc...)
 
-* Wireshark 1, 2 e 3 - (ACADI-TI)
-* CSI Linux Certified Investigator (CSIL-CI) - (CSI Linux)
-* Maltego Foundations - (Maltego)
-* Outhers (Youtube, Udemy, etc...)
+**Technical Skills:**
+- Programming Languages: Python (essential)
+- Databases: MySQL, PostgreSQL, MongoDB (basic)
+- Operating Systems: Linux (Advanced), Windows
+- Others: Git, GitHub, Virtualization
 
-# Conhecimentos técnicos
+**OSINT Skills:**
+- Defensive Writing
+- Investigative Mindset
+- Vicarious Trauma
+- Information Operations
+- Sock Puppets
+- Search Engine Operators
+- Reverse Image Search
+- EXIF Data
+- Physical Location OSINT
+- Geographical Location Identification
+- Email Address Discovery
+- Password OSINT
+- Compromised Password Search
+- Username and Account Name Hunting
+- People Search
+- Phone Number Tracking
+- Birthdate Discovery
+- Resume Search
+- YouTube Video Analysis
+- Twitter OSINT
+- Facebook OSINT
+- Instagram OSINT
+- Snapchat OSINT
+- Reddit OSINT
+- LinkedIn OSINT
+- TikTok OSINT
+- Advanced OPSEC
 
-* Linguagens de programação: Python, JavaScript
-* Bancos de dados: MySQL, PostgreSQL, MongoDB
-* Sistemas operacionais: Linux, Windows
-* Outros: Git, GitHub, Docker
+**Digital Marketing:**
+- SEO (Advanced): MOZ, KWFinder, Majestic, SEMRush, etc.
+- Email Marketing (Advanced): MailChimp, ActiveCampaign, Mautic, etc.
+- Marketing Strategy (Advanced): Target Audience, Product Funnel, Customer Journey, etc.
+- WordPress: Website Creation, Online Platforms in General
 
-# Conhecimentos gerais
-
-* Marketing Digital:
-  * SEO (avançado): MOZ, KWFinder Majestic, SEMRush, etc...
-  * Email marketing (Avançado): MailChimp, ActiveCAmpaign, Mautic, etc..
-  * Estratégia de Marketing (Avançado): Publico alvo, Esteira de produtos, Jornada do cliente, etc..
-
-# Habilidades:
-
-* Línguas estrangeiras: Inglês (básico), Espanhol (conversacional) Português (nativo)
-* Outras habilidades: Comunicação, trabalho em equipe, resolução de problemas
-
-
-
+**Skills:**
+- Foreign languages: English (basic), Spanish (conversational), Portuguese (native)
+- Other skills: Communication, teamwork, problem-solving
