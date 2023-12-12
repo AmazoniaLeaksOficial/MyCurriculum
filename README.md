@@ -40,6 +40,7 @@ No children
 ## Training:
 - Investigative Journalism: From Hypothesis to Narrative Construction – (Abraji – Brazilian Association of Investigative Journalism)
 - 360/Digital Sherlocks - (Digital Forensic Research Lab - Atlantic Council)
+- Fact-Checking Training - (AFP)
 - Scrum Foundation Professional Certification – SFPC™
 - SFPC Certificates – Scrum Foundation Professional Certificate
 
