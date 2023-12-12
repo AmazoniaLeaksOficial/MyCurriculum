@@ -16,8 +16,8 @@ ECC7 C5F2 B933 A9B2 A159 8503 557B 559B 5EE1 21C8
 [AmazoniaLeaksOficial](https://github.com/AmazoniaLeaksOficial)
 
 **Important Information:**<br>
-Married<br>
-No children
+  - Married<br>
+  - No children
 
 ## Education:
 - **FIAP - Faculdade de Informática e Administração Paulista**
