@@ -38,9 +38,10 @@ ECC7 C5F2 B933 A9B2 A159 8503 557B 559B 5EE1 21C8
    - 2010-2013
 
 ## Training:
-- Investigative Journalism: From Hypothesis to Narrative Construction – (Abraji – Brazilian Association of Investigative Journalism)
+
 - 360/Digital Sherlocks - (Digital Forensic Research Lab - Atlantic Council)
 - Fact-Checking Training - (AFP)
+- Investigative Journalism: From Hypothesis to Narrative Construction – (Abraji – Brazilian Association of Investigative Journalism)
 - Scrum Foundation Professional Certification – SFPC™
 - SFPC Certificates – Scrum Foundation Professional Certificate
 
