@@ -58,8 +58,7 @@ ECC7 C5F2 B933 A9B2 A159 8503 557B 559B 5EE1 21C8
 - Others: Git, GitHub, Virtualization
 
 ## OSINT Skills:
-|    Skill List                |  Skill List                                    |
-|-------------------------------------|-----------------------------------------------|
+|                      |                                               |
 |-------------------------------------|-----------------------------------------------|
 | Defensive Writing                   | Investigative Mindset                         |
 | Vicarious Trauma                    | Information Operations                        |
@@ -69,18 +68,18 @@ ECC7 C5F2 B933 A9B2 A159 8503 557B 559B 5EE1 21C8
 | Email Address Discovery             | Password OSINT                                |
 | Compromised Password Search         | Username and Account Name Hunting             |
 | People Search                       |Phone Number Tracking                          |
-| Birthdate Discovery                 | Resume Search                                |
+| Birthdate Discovery                 | Resume Search                                 |
 | YouTube Video Analysis              | Twitter OSINT                                 |
 | Facebook OSINT                      | Instagram OSINT                               |
 | Snapchat OSINT                      |Reddit OSINT                                   |
 | LinkedIn OSINT                      | TikTok OSINT                                  |
-| Advanced OPSEC                      | -                                            |
+| Advanced OPSEC                      | -                                             |
 
 ## Digital Marketing:
-- SEO (Advanced): MOZ, KWFinder, Majestic, SEMRush, etc.
-- Email Marketing (Advanced): MailChimp, ActiveCampaign, Mautic, etc.
-- Marketing Strategy (Advanced): Target Audience, Product Funnel, Customer Journey, etc.
-- WordPress: Website Creation, Online Platforms in General
+-  Search engine optimization (SEO) (Advanced): MOZ, KWFinder, Majestic, SEMRush, Silo, Backlinks, etc.
+-  Email Marketing (Advanced): MailChimp, ActiveCampaign, Mautic, etc.
+-  Marketing Strategy (Advanced): Target Audience, Product Funnel, Customer Journey, etc.
+-  WordPress: Website Creation, Online Platforms in General.
 
 ## Skills:
 - Foreign languages: English (basic), Spanish (conversational), Portuguese (native)
