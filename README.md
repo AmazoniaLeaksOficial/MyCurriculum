@@ -85,4 +85,4 @@ ECC7 C5F2 B933 A9B2 A159 8503 557B 559B 5EE1 21C8
 - Foreign languages: English (basic), Spanish (conversational), Portuguese (native)
 - Other skills: Communication, teamwork, problem-solving
 
-## NOTE: I am physically disabled. Please see (ICD-10 - S88.1)
+# NOTE: I am physically disabled. Please see (ICD-10 - S88.1)
