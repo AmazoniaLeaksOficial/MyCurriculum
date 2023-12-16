@@ -75,14 +75,16 @@ ECC7 C5F2 B933 A9B2 A159 8503 557B 559B 5EE1 21C8
 | LinkedIn OSINT                      | TikTok OSINT                                  |
 | Advanced OPSEC                      | -                                             |
 
-## Digital Marketing:
--  Search engine optimization (SEO) (Advanced): MOZ, KWFinder, Majestic, SEMRush, Silo, Backlinks, etc.
--  Email Marketing (Advanced): MailChimp, ActiveCampaign, Mautic, etc.
--  Marketing Strategy (Advanced): Target Audience, Product Funnel, Customer Journey, etc.
--  WordPress: Website Creation, Online Platforms in General.
+## Digital Marketing and outhers:
+-  **Search engine optimization** (SEO) (Advanced): MOZ, KWFinder, Majestic, SEMRush, Silo, Backlinks, etc.
+-  **Email Marketing** (Advanced): MailChimp, ActiveCampaign, Mautic, etc.
+-  **Marketing Strategy** (Advanced): Target Audience, Product Funnel, Customer Journey, etc.
+-  **Graphic Design**(Basic) Photoshop, Ilustrator.
+-  **WordPress**: Website Creation, Online Platforms in General.
 
 ## Skills:
 - Foreign languages: English (basic), Spanish (conversational), Portuguese (native)
-- Other skills: Communication, teamwork, problem-solving
+- Other skills: Communication, teamwork, problem-solving, ability to learn on one's own.
+# 
 
 **NOTE**: I am physically disabled. Please see (ICD-10 - S88.1)
