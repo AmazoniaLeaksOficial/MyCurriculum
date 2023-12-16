@@ -40,6 +40,7 @@ ECC7 C5F2 B933 A9B2 A159 8503 557B 559B 5EE1 21C8
 ## Training:
 
 - 360/Digital Sherlocks - (Digital Forensic Research Lab - Atlantic Council)
+- Democracia Ambiental e Proteção de Defensores/as Ambientais ( Transparência Internacional - Brasil)
 - Fact-Checking Training - (AFP)
 - Investigative Journalism: From Hypothesis to Narrative Construction – (Abraji – Brazilian Association of Investigative Journalism)
 - Scrum Foundation Professional Certification – SFPC™
