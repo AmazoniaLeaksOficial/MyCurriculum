@@ -83,8 +83,9 @@ ECC7 C5F2 B933 A9B2 A159 8503 557B 559B 5EE1 21C8
 -  **WordPress**: Website Creation, Online Platforms in General.
 
 ## Skills:
-- Foreign languages: English (basic), Spanish (conversational), Portuguese (native)
-- Other skills: Communication, teamwork, problem-solving, ability to learn on one's own.
+- Foreign languages: English (studying), Spanish (conversational), Portuguese (native);
+- Project Management (PMBOK and SCRUM);
+- Other skills: Communication, self-learning ability, hacker mindset, teamwork, problem-solving, independent learning.
 # 
 
 **NOTE**: I am physically disabled. Please see (ICD-10 - S88.1)
