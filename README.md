@@ -86,6 +86,12 @@ ECC7 C5F2 B933 A9B2 A159 8503 557B 559B 5EE1 21C8
 - Foreign languages: English (studying), Spanish (conversational), Portuguese (native);
 - Project Management (PMBOK and SCRUM);
 - Other skills: Communication, self-learning ability, hacker mindset, teamwork, problem-solving, independent learning.
-# 
 
+## Hobbies:
+- Writing articles/texts,
+- Following global geopolitical analyses and discussion groups,
+- Reading about human behavior,
+- Cooking for photography.
+
+#   
 **NOTE**: I am physically disabled. Please see (ICD-10 - S88.1)
