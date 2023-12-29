@@ -75,7 +75,7 @@ ECC7 C5F2 B933 A9B2 A159 8503 557B 559B 5EE1 21C8
 | LinkedIn OSINT                      | TikTok OSINT                                  |
 | Advanced OPSEC                      | -                                             |
 
-## Digital Marketing and outhers:
+## Digital Marketing and others:
 -  **Search engine optimization** (SEO) (Advanced): MOZ, KWFinder, Majestic, SEMRush, Silo, Backlinks, etc.
 -  **Email Marketing** (Advanced): MailChimp, ActiveCampaign, Mautic, etc.
 -  **Marketing Strategy** (Advanced): Target Audience, Product Funnel, Customer Journey, etc.
